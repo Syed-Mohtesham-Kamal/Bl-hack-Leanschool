@@ -42,9 +42,6 @@ Bootstrap JS
 
 Redis with python and firebase
 
-
-Steps for installation:
-
 Students need to open through the website link or directly with the name "Lean School"
 
 
